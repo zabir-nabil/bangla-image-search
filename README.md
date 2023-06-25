@@ -34,6 +34,6 @@ streamlit run app.py
 
 ### Training CLIP for Bangla
 
- * *Training Code:* <a href="https://github.com/zabir-nabil/bangla-CLIP">bangla-CLIP</>
+ * *Training Code:* [bangla-CLIP](https://github.com/zabir-nabil/bangla-CLIP)
 
 
