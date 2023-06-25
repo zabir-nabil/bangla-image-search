@@ -11,7 +11,7 @@
 #### Installation
 
 * `python >= 3.9`
-* `pip install -requirements.txt`
+* `pip install -r requirements.txt`
 * Download the model weights and place inside the `models` folder.
 
 ### bangla-image-search
