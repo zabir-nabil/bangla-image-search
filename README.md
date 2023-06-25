@@ -29,7 +29,7 @@ streamlit run app.py
   <a href="#"><img src="assets/bangla_clip_2.PNG" alt="bangla clip"></a>
 </p>
 <p align="center">
-    <em>Live Demo: </em> [HuggingFace Space](https://huggingface.co/spaces/zabir-nabil/bangla-clip)
+    <em>Live Demo: </em> <a href="https://huggingface.co/spaces/zabir-nabil/bangla-clip">HuggingFace Space</>
 </p>
 
 
