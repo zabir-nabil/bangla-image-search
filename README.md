@@ -35,5 +35,6 @@ streamlit run app.py
 ### Training CLIP for Bangla
 
  * *Training Code:* [bangla-CLIP](https://github.com/zabir-nabil/bangla-CLIP)
+ * *Article:* [medium](https://medium.com/@furcifer/a-dead-simple-image-search-engine-for-bangla-using-clip-contrastive-language-image-pre-training-a1f7f50b8419)
 
 
